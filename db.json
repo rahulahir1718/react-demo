@@ -1,0 +1,39 @@
+{
+  "Teams": [
+    {
+      "id": 1,
+      "teamName": "RCB",
+      "teamCaptain": "Faf Du Plesis",
+      "teamFoundedIn": 2008,
+      "teamHome": "Banglore"
+    },
+    {
+      "id": 2,
+      "teamName": "CSK",
+      "teamCaptain": "MS Dhoni",
+      "teamFoundedIn": 2008,
+      "teamHome": "Chennai"
+    },
+    {
+      "id": 3,
+      "teamName": "MI",
+      "teamCaptain": "Rohit Sharma",
+      "teamFoundedIn": 2008,
+      "teamHome": "Mumbai"
+    },
+    {
+      "id": 4,
+      "teamName": "LSG",
+      "teamCaptain": "KL Rahul",
+      "teamFoundedIn": 2022,
+      "teamHome": "Lucknow"
+    },
+    {
+      "id": 6,
+      "teamName": "GL",
+      "teamCaptain": "Suresh Raina",
+      "teamFoundedIn": 2016,
+      "teamHome": "Rajkot"
+    }
+  ]
+}
